@@ -35,6 +35,8 @@ export class FeedComponent implements OnInit, OnDestroy, OnChanges {
     this.initializeListeners();
   }
 
+  //test commit
+
   // tslint:disable-next-line:typedef
   ngOnChanges(changes: SimpleChanges) {
 
